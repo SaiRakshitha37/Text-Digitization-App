@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189601133833",
+    "project_id": "mediscan-textdigitizer-d37ad",
+    "storage_bucket": "mediscan-textdigitizer-d37ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189601133833:android:52e1c06d5435e389e44fd8",
+        "android_client_info": {
+          "package_name": "com.example.text_digitization_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zePvjXMvHjhkdrE5LBXQ_Ab2u_ZWv7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
